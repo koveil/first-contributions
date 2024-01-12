@@ -19,7 +19,7 @@ assignees: Roshanjossey
 <!--- How can it benefit other users? -->
 
 💡 **Possible solutions**
-<!--- Not obligatory, but suggest an idea for implementing addition or change -->
+<!--- Not necessary, but suggest an idea for implementing addition or change -->
 
 📋  **Steps to solve the problem**
 
